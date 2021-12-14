@@ -3,3 +3,4 @@
 Make sure docker is installed on your machine, and on macOS, run the docker app
 
 To get started, just run ```docker-compose up```
+Once the container is up, open ```http://localhost:3000```
